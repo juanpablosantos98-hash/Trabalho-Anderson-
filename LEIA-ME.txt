@@ -1,0 +1,18 @@
+TRABALHO ANDERSON - DESENHOS TECNICOS
+
+Abra ABRIR_CATALOGO.html no navegador.
+14 pastas de pecas, 4 vistas por peca em PNG, SVG e DXF, e prancha PNG/SVG.
+Os DXF contem linhas e textos, com geometria das vistas ortogonais em mm (1:1); cotas explodidas, nao associativas. A isometrica DXF e uma projecao 2D.
+Pranchas SVG: A3 horizontal, 1o diedro. PNG: 2800 x 1980 pixels. Escala de apresentacao variavel; prevalecem cotas numericas.
+
+Unidade do 3MF: milimetro. Todas as escalas de instancia foram aplicadas. Rotacao/translacao da mesa removidas. Y foi escolhido como eixo de profundidade.
+Os nomes das pecas foram identificados pela geometria; os numeros dos objetos 3MF foram preservados. Sufixos de arquivos nao foram interpretados como quantidade. Cada instancia do build recebeu uma prancha.
+
+Linhas: continua grossa = contorno visivel; tracejada fina = aresta oculta; continua fina = cotas e extensoes; pontilhada = envelope auxiliar; traco-ponto = eixo/centro quando geometricamente identificado (aplicado nos perfis circulares identificados).
+A malha triangulada foi projetada ortograficamente com teste de profundidade para visibilidade. Curvas continuam facetadas. Isometrica sem arestas ocultas.
+
+Cotas gerais de envelope, arredondadas a 0,01 mm; nao sao tolerancias. Nao ha cotagem individual completa de furos, recortes, raios ou encaixes. Material, acabamento e tolerancias de fabricacao nao especificados. Uso academico de representacao; detalhamento de fabricacao exige modelo CAD parametrico ou levantamento complementar.
+Referencia geral de linhas: https://www.iso.org/standard/83355.html
+
+Incluidos detalhes dos 10 recortes principais das placas: dimensoes e localizacao no envelope.
+SHA256 do 3MF de origem: 3197c3e6b8b2ab8bfc55103f59014e96ca2b78932ca21d734f0ac38105547fa6

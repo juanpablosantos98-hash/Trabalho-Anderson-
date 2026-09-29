@@ -1,0 +1,15 @@
+﻿peca;objeto_3mf;malha_3mf;nome_original;mesa;X_mm;Y_mm;Z_mm;triangulos;escala_X_original;escala_Y_original;escala_Z_original;eixo_profundidade_original;pasta;descricao_visual
+P01;2;1;Placa: círculo / quadrado / triângulo;4;170.0;5.0;170.0;15804;1.0;1.0;1.0;Y;P01_objeto_2;Placa: círculo / quadrado / triângulo
+P02;4;3;Estrela;2;70.08;50.0;79.15;36;2.957107097593058;2.9665440854602014;1.66666667;Z;P02_objeto_4;Estrela
+P03;6;5;Trevo;2;58.06;50.0;58.06;148;2.322400001764706;2.322400001764706;1.66666667;Z;P03_objeto_6;Trevo
+P04;8;7;Placa: estrela / coração;3;170.0;5.01063;170.0;17086;1.0;1.0;1.0;Z;P04_objeto_8;Placa: estrela / coração
+P05;10;9;Hexágono;2;56.46;50.0;56.46;24;2.2583999934497885;2.2583999934497885;1.66666667;Z;P05_objeto_10;Hexágono
+P06;12;11;Placa: hexágono / trevo;5;170.0;5.01;170.0;14326;1.0;1.0;1.0;Z;P06_objeto_12;Placa: hexágono / trevo
+P07;14;13;Coração;2;58.78;50.0;58.78;1484;2.351200002055267;2.3512014304789473;1.66666667;Z;P07_objeto_14;Coração
+P08;16;15;Quadrado com cantos arredondados;2;48.50001;50.0;48.5;1644;0.9999999997361818;1.0000000000000002;0.9999999997361823;Y;P08_objeto_16;Quadrado com cantos arredondados
+P09;18;17;Círculo;2;51.9788;50.0;52.0;3336;0.9999999997046566;0.9999999999999996;0.9999999997046567;Y;P09_objeto_18;Círculo
+P10;20;19;Pentágono;2;49.03017;50.0;46.82623;1856;0.9999999997361819;0.9999999999999996;0.9999999997361819;Y;P10_objeto_20;Pentágono
+P11;22;21;Losango;2;66.38075;50.0;45.56674;1572;1.0000000000000002;1.0000000000000002;1.66666677;Z;P11_objeto_22;Losango
+P12;24;23;Triângulo achatado;2;73.28021;50.0;38.80508;1662;0.9999999997726522;0.9999999999999998;0.9999999997726522;Y;P12_objeto_24;Triângulo achatado
+P13;26;25;Triângulo;2;44.01118;50.0;46.35315;1672;1.0000000003118226;1.0000000003118226;1.0;Z;P13_objeto_26;Triângulo
+P14;28;27;Placa: losango / pentágono / triângulo;1;170.0;5.0057;170.0;15180;1.0;1.0;1.0;Z;P14_objeto_28;Placa: losango / pentágono / triângulo

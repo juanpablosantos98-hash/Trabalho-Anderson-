@@ -1,0 +1,310 @@
+[
+  {
+    "peca": "P01",
+    "arestas_nao_manifold": 0,
+    "vistas": {
+      "FRONT": {
+        "visible_segments": 724,
+        "hidden_segments": 152
+      },
+      "SIDE": {
+        "visible_segments": 694,
+        "hidden_segments": 176
+      },
+      "TOP": {
+        "visible_segments": 693,
+        "hidden_segments": 172
+      },
+      "ISOMETRIC": {
+        "visible_segments": 421,
+        "hidden_segments": 0
+      }
+    }
+  },
+  {
+    "peca": "P02",
+    "arestas_nao_manifold": 0,
+    "vistas": {
+      "FRONT": {
+        "visible_segments": 12,
+        "hidden_segments": 10
+      },
+      "SIDE": {
+        "visible_segments": 23,
+        "hidden_segments": 15
+      },
+      "TOP": {
+        "visible_segments": 29,
+        "hidden_segments": 13
+      },
+      "ISOMETRIC": {
+        "visible_segments": 67,
+        "hidden_segments": 0
+      }
+    }
+  },
+  {
+    "peca": "P03",
+    "arestas_nao_manifold": 0,
+    "vistas": {
+      "FRONT": {
+        "visible_segments": 38,
+        "hidden_segments": 38
+      },
+      "SIDE": {
+        "visible_segments": 48,
+        "hidden_segments": 40
+      },
+      "TOP": {
+        "visible_segments": 56,
+        "hidden_segments": 39
+      },
+      "ISOMETRIC": {
+        "visible_segments": 64,
+        "hidden_segments": 0
+      }
+    }
+  },
+  {
+    "peca": "P04",
+    "arestas_nao_manifold": 0,
+    "vistas": {
+      "FRONT": {
+        "visible_segments": 1339,
+        "hidden_segments": 541
+      },
+      "SIDE": {
+        "visible_segments": 923,
+        "hidden_segments": 453
+      },
+      "TOP": {
+        "visible_segments": 882,
+        "hidden_segments": 645
+      },
+      "ISOMETRIC": {
+        "visible_segments": 804,
+        "hidden_segments": 0
+      }
+    }
+  },
+  {
+    "peca": "P05",
+    "arestas_nao_manifold": 0,
+    "vistas": {
+      "FRONT": {
+        "visible_segments": 6,
+        "hidden_segments": 6
+      },
+      "SIDE": {
+        "visible_segments": 14,
+        "hidden_segments": 8
+      },
+      "TOP": {
+        "visible_segments": 7,
+        "hidden_segments": 7
+      },
+      "ISOMETRIC": {
+        "visible_segments": 13,
+        "hidden_segments": 0
+      }
+    }
+  },
+  {
+    "peca": "P06",
+    "arestas_nao_manifold": 0,
+    "vistas": {
+      "FRONT": {
+        "visible_segments": 743,
+        "hidden_segments": 270
+      },
+      "SIDE": {
+        "visible_segments": 758,
+        "hidden_segments": 273
+      },
+      "TOP": {
+        "visible_segments": 772,
+        "hidden_segments": 277
+      },
+      "ISOMETRIC": {
+        "visible_segments": 526,
+        "hidden_segments": 0
+      }
+    }
+  },
+  {
+    "peca": "P07",
+    "arestas_nao_manifold": 0,
+    "vistas": {
+      "FRONT": {
+        "visible_segments": 348,
+        "hidden_segments": 348
+      },
+      "SIDE": {
+        "visible_segments": 281,
+        "hidden_segments": 281
+      },
+      "TOP": {
+        "visible_segments": 509,
+        "hidden_segments": 113
+      },
+      "ISOMETRIC": {
+        "visible_segments": 543,
+        "hidden_segments": 0
+      }
+    }
+  },
+  {
+    "peca": "P08",
+    "arestas_nao_manifold": 0,
+    "vistas": {
+      "FRONT": {
+        "visible_segments": 66,
+        "hidden_segments": 0
+      },
+      "SIDE": {
+        "visible_segments": 67,
+        "hidden_segments": 0
+      },
+      "TOP": {
+        "visible_segments": 58,
+        "hidden_segments": 0
+      },
+      "ISOMETRIC": {
+        "visible_segments": 66,
+        "hidden_segments": 0
+      }
+    }
+  },
+  {
+    "peca": "P09",
+    "arestas_nao_manifold": 0,
+    "vistas": {
+      "FRONT": {
+        "visible_segments": 132,
+        "hidden_segments": 0
+      },
+      "SIDE": {
+        "visible_segments": 116,
+        "hidden_segments": 0
+      },
+      "TOP": {
+        "visible_segments": 114,
+        "hidden_segments": 0
+      },
+      "ISOMETRIC": {
+        "visible_segments": 105,
+        "hidden_segments": 0
+      }
+    }
+  },
+  {
+    "peca": "P10",
+    "arestas_nao_manifold": 0,
+    "vistas": {
+      "FRONT": {
+        "visible_segments": 45,
+        "hidden_segments": 0
+      },
+      "SIDE": {
+        "visible_segments": 60,
+        "hidden_segments": 0
+      },
+      "TOP": {
+        "visible_segments": 49,
+        "hidden_segments": 0
+      },
+      "ISOMETRIC": {
+        "visible_segments": 70,
+        "hidden_segments": 0
+      }
+    }
+  },
+  {
+    "peca": "P11",
+    "arestas_nao_manifold": 0,
+    "vistas": {
+      "FRONT": {
+        "visible_segments": 42,
+        "hidden_segments": 0
+      },
+      "SIDE": {
+        "visible_segments": 43,
+        "hidden_segments": 0
+      },
+      "TOP": {
+        "visible_segments": 42,
+        "hidden_segments": 0
+      },
+      "ISOMETRIC": {
+        "visible_segments": 73,
+        "hidden_segments": 0
+      }
+    }
+  },
+  {
+    "peca": "P12",
+    "arestas_nao_manifold": 0,
+    "vistas": {
+      "FRONT": {
+        "visible_segments": 41,
+        "hidden_segments": 0
+      },
+      "SIDE": {
+        "visible_segments": 52,
+        "hidden_segments": 0
+      },
+      "TOP": {
+        "visible_segments": 44,
+        "hidden_segments": 0
+      },
+      "ISOMETRIC": {
+        "visible_segments": 66,
+        "hidden_segments": 0
+      }
+    }
+  },
+  {
+    "peca": "P13",
+    "arestas_nao_manifold": 0,
+    "vistas": {
+      "FRONT": {
+        "visible_segments": 50,
+        "hidden_segments": 0
+      },
+      "SIDE": {
+        "visible_segments": 42,
+        "hidden_segments": 0
+      },
+      "TOP": {
+        "visible_segments": 55,
+        "hidden_segments": 0
+      },
+      "ISOMETRIC": {
+        "visible_segments": 65,
+        "hidden_segments": 0
+      }
+    }
+  },
+  {
+    "peca": "P14",
+    "arestas_nao_manifold": 0,
+    "vistas": {
+      "FRONT": {
+        "visible_segments": 721,
+        "hidden_segments": 292
+      },
+      "SIDE": {
+        "visible_segments": 734,
+        "hidden_segments": 260
+      },
+      "TOP": {
+        "visible_segments": 739,
+        "hidden_segments": 249
+      },
+      "ISOMETRIC": {
+        "visible_segments": 467,
+        "hidden_segments": 0
+      }
+    }
+  }
+]
